@@ -1,7 +1,3 @@
-# NLP Homework NLTK
-# Vibha Belavadi
-# vxb141530
-
 from nltk import FreqDist
 from nltk.classify import util
 from nltk.classify import MaxentClassifier
