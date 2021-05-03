@@ -1,11 +1,12 @@
-# Sentiment Analysis using NLTK:
+## Sentiment Analysis using NLTK:
 
-## Problem Statement:
+### Problem Statement:
 
 1. Perform sentiment analysis by applying Maximum Entropy Classification to movies review data.
 2. Observe the affect on accuracy by the discriminating features of stop words, punctuations, lemmatization and also the amount of training data fed. 
 3. Perform analysis on the unbalanced collection – changing proportions of positive and negative samples in training data.
 
+### Case Studies:
 
 The following case studies were proposed:
 
